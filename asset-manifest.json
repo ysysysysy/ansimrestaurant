@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ysysysysy.github.io/ansimrestaurant/static/css/main.b2ee65fc.chunk.css",
-    "main.js": "/ysysysysy.github.io/ansimrestaurant/static/js/main.4fe0b35e.chunk.js",
-    "main.js.map": "/ysysysysy.github.io/ansimrestaurant/static/js/main.4fe0b35e.chunk.js.map",
-    "runtime-main.js": "/ysysysysy.github.io/ansimrestaurant/static/js/runtime-main.dbc21d07.js",
-    "runtime-main.js.map": "/ysysysysy.github.io/ansimrestaurant/static/js/runtime-main.dbc21d07.js.map",
-    "static/js/2.8d0f3e82.chunk.js": "/ysysysysy.github.io/ansimrestaurant/static/js/2.8d0f3e82.chunk.js",
-    "static/js/2.8d0f3e82.chunk.js.map": "/ysysysysy.github.io/ansimrestaurant/static/js/2.8d0f3e82.chunk.js.map",
-    "static/js/3.3b8a7759.chunk.js": "/ysysysysy.github.io/ansimrestaurant/static/js/3.3b8a7759.chunk.js",
-    "static/js/3.3b8a7759.chunk.js.map": "/ysysysysy.github.io/ansimrestaurant/static/js/3.3b8a7759.chunk.js.map",
-    "index.html": "/ysysysysy.github.io/ansimrestaurant/index.html",
-    "static/css/main.b2ee65fc.chunk.css.map": "/ysysysysy.github.io/ansimrestaurant/static/css/main.b2ee65fc.chunk.css.map",
-    "static/js/2.8d0f3e82.chunk.js.LICENSE.txt": "/ysysysysy.github.io/ansimrestaurant/static/js/2.8d0f3e82.chunk.js.LICENSE.txt",
-    "static/media/logo.695b22dc.svg": "/ysysysysy.github.io/ansimrestaurant/static/media/logo.695b22dc.svg"
+    "main.css": "/ansimrestaurant/static/css/main.b2ee65fc.chunk.css",
+    "main.js": "/ansimrestaurant/static/js/main.0e2f7a7b.chunk.js",
+    "main.js.map": "/ansimrestaurant/static/js/main.0e2f7a7b.chunk.js.map",
+    "runtime-main.js": "/ansimrestaurant/static/js/runtime-main.8e906a33.js",
+    "runtime-main.js.map": "/ansimrestaurant/static/js/runtime-main.8e906a33.js.map",
+    "static/js/2.8d0f3e82.chunk.js": "/ansimrestaurant/static/js/2.8d0f3e82.chunk.js",
+    "static/js/2.8d0f3e82.chunk.js.map": "/ansimrestaurant/static/js/2.8d0f3e82.chunk.js.map",
+    "static/js/3.3b8a7759.chunk.js": "/ansimrestaurant/static/js/3.3b8a7759.chunk.js",
+    "static/js/3.3b8a7759.chunk.js.map": "/ansimrestaurant/static/js/3.3b8a7759.chunk.js.map",
+    "index.html": "/ansimrestaurant/index.html",
+    "static/css/main.b2ee65fc.chunk.css.map": "/ansimrestaurant/static/css/main.b2ee65fc.chunk.css.map",
+    "static/js/2.8d0f3e82.chunk.js.LICENSE.txt": "/ansimrestaurant/static/js/2.8d0f3e82.chunk.js.LICENSE.txt",
+    "static/media/logo.695b22dc.svg": "/ansimrestaurant/static/media/logo.695b22dc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbc21d07.js",
+    "static/js/runtime-main.8e906a33.js",
     "static/js/2.8d0f3e82.chunk.js",
     "static/css/main.b2ee65fc.chunk.css",
-    "static/js/main.4fe0b35e.chunk.js"
+    "static/js/main.0e2f7a7b.chunk.js"
   ]
 }
