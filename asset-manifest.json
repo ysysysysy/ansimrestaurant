@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ansimrestaurant/static/css/main.3477134d.chunk.css",
+    "main.css": "/ansimrestaurant/static/css/main.c741b055.chunk.css",
     "main.js": "/ansimrestaurant/static/js/main.c9edc168.chunk.js",
     "main.js.map": "/ansimrestaurant/static/js/main.c9edc168.chunk.js.map",
     "runtime-main.js": "/ansimrestaurant/static/js/runtime-main.b73f4763.js",
@@ -10,14 +10,14 @@
     "static/js/3.a9d6ca65.chunk.js": "/ansimrestaurant/static/js/3.a9d6ca65.chunk.js",
     "static/js/3.a9d6ca65.chunk.js.map": "/ansimrestaurant/static/js/3.a9d6ca65.chunk.js.map",
     "index.html": "/ansimrestaurant/index.html",
-    "static/css/main.3477134d.chunk.css.map": "/ansimrestaurant/static/css/main.3477134d.chunk.css.map",
+    "static/css/main.c741b055.chunk.css.map": "/ansimrestaurant/static/css/main.c741b055.chunk.css.map",
     "static/js/2.b46b7f77.chunk.js.LICENSE.txt": "/ansimrestaurant/static/js/2.b46b7f77.chunk.js.LICENSE.txt",
     "static/media/logo.695b22dc.svg": "/ansimrestaurant/static/media/logo.695b22dc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b73f4763.js",
     "static/js/2.b46b7f77.chunk.js",
-    "static/css/main.3477134d.chunk.css",
+    "static/css/main.c741b055.chunk.css",
     "static/js/main.c9edc168.chunk.js"
   ]
 }
