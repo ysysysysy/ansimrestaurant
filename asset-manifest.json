@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ansimrestaurant/static/css/main.da6179af.chunk.css",
-    "main.js": "/ansimrestaurant/static/js/main.c9edc168.chunk.js",
-    "main.js.map": "/ansimrestaurant/static/js/main.c9edc168.chunk.js.map",
+    "main.js": "/ansimrestaurant/static/js/main.6d15f9fd.chunk.js",
+    "main.js.map": "/ansimrestaurant/static/js/main.6d15f9fd.chunk.js.map",
     "runtime-main.js": "/ansimrestaurant/static/js/runtime-main.b73f4763.js",
     "runtime-main.js.map": "/ansimrestaurant/static/js/runtime-main.b73f4763.js.map",
     "static/js/2.b46b7f77.chunk.js": "/ansimrestaurant/static/js/2.b46b7f77.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b73f4763.js",
     "static/js/2.b46b7f77.chunk.js",
     "static/css/main.da6179af.chunk.css",
-    "static/js/main.c9edc168.chunk.js"
+    "static/js/main.6d15f9fd.chunk.js"
   ]
 }
